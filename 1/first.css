@@ -1,0 +1,62 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background:  linear-gradient( #000428,#004e92);
+    margin: 130px;
+    overflow-y: hidden;
+}
+
+#board{
+    /* background: skyblue; */
+    background: url("flappybirdbg.png");
+}
+h3{
+    color:white;
+    font-size: 30px;
+    
+}
+h4{
+    color:white;
+    font-size: 25px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
